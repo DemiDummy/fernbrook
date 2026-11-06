@@ -1,7 +1,9 @@
 # Fernbrook
 
-A tiny Stardew Valley-style farming and fishing demo: till, plant and water four crops, fish a pond and a brook with
-a catch-the-fish minigame, sell at the shipping bin, and sleep to start a new day.
+A small Stardew Valley-style farming life demo: clear and work your grandparents' farm through four seasons (13
+crops, quality, fertilizer, sprinklers and machines), fish ponds, the brook and the sea, level up five skills,
+craft and cook, and walk into Fernbrook to meet eight villagers, shop, take on requests and restore the
+community hall (and with it the greenhouse).
 **Play it at https://demidummy.github.io/fernbrook/**
 
 Keyboard and mouse: W A S D to walk, left click (or C) to use the tool in hand, right click (or X) to harvest, open
