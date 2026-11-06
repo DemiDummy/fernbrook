@@ -9,5 +9,7 @@ raise hens and cows in a coop and barn of your own.
 
 Keyboard and mouse: W A S D to walk, left click (or C) to use the tool in hand, right click (or X) to harvest, open
 and talk, 1-9 for the toolbar, E for the backpack, Esc for the menu.
+Gamepad: the stick walks, X uses the tool, A talks and opens, B or Y opens the menu, LB/RB move along the
+toolbar, Start pauses; in menus the stick moves a pointer and A clicks.
 
 This repo only holds the built game. It's published from a private source repo by tools/release-pages.sh.
