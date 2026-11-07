@@ -6,6 +6,7 @@ craft and cook, walk into Fernbrook to meet eight villagers, shop, take on reque
 hall (and with it the greenhouse), fight your way down 30 floors of the mine for ore, gems and better swords, and
 raise hens and cows in a coop and barn of your own. Then find your grandmother's stillroom notebook: grow her
 odd herbs, brew small magic, read the notes in bottles coming down the brook, and see where they lead.
+Four festivals a year, held in the town square and, if you find the way, thirty years ago too.
 **Play it at https://demidummy.github.io/fernbrook/**
 
 Keyboard and mouse: W A S D to walk, left click (or C) to use the tool in hand, right click (or X) to harvest, open
